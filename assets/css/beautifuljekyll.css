@@ -50,7 +50,7 @@ body > main {
 }
 p {
   line-height: 1.5;
-  margin: 1.875rem 0;
+  margin: 0.8rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
@@ -1123,22 +1123,4 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
-}
-
-.about-box {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-}
-
-/* Reduce spacing between paragraphs */
-.about-box p {
-  margin-bottom: 12px;
-  line-height: 1.6;
-}
-
-/* Make the third paragraph blue */
-.about-box p:last-of-type {
-  color: #2b7bb9;
-  font-weight: 500;
 }
