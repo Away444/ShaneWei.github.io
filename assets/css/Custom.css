@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", sans-serif;
+}
+
+.hero,
+.hero h1,
+.hero p {
+  text-align: center;
+}
+
+.tagline {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.school {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.card {
+  border: 2px solid #222;
+  padding: 24px;
+  margin: 24px auto;
+  background: #fff;
+}
+
+.card h2 {
+  margin-top: 0;
+}
