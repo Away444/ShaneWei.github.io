@@ -1124,3 +1124,21 @@ pre {
     display: inline-block;
   }
 }
+
+.about-box {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+/* Reduce spacing between paragraphs */
+.about-box p {
+  margin-bottom: 12px;
+  line-height: 1.6;
+}
+
+/* Make the third paragraph blue */
+.about-box p:last-of-type {
+  color: #2b7bb9;
+  font-weight: 500;
+}
