@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some information about me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shane (Xiaoyan) Wei.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a final-year PhD candidate in Human–Computer Interaction (HCI) at the University of Adelaide. My research focuses on context-aware interactive systems that integrate environmental, physiological, and behavioural signals to support adaptive human–AI interaction.
 
-What else do you need?
+My work lies at the intersection of Extended Reality (XR), generative AI, and human-centred design. I design and evaluate intelligent systems that respond to users’ internal and external contexts, exploring applications such as AI-generated music for wellbeing and persuasive dialogue systems in immersive environments.
 
-### My story
+<span style="color:red">I am currently seeking opportunities in UX Research, Human-AI Interaction, and immersive technologies in both academia and industry.</span>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[My CV]()

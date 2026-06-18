@@ -370,6 +370,8 @@ img {
     -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
   {% endunless %}
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
@@ -377,6 +379,8 @@ img {
     border-radius: 50%;
   {% endunless %}
   display: block;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {

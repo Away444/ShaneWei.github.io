@@ -21,10 +21,10 @@ author: Shane Wei
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Research: "researchpage"
+    - Design: "designpage"
+  CV Download: "/assets/data/example.pdf"
 
 ################
 # --- Logo --- #
@@ -51,8 +51,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "xiaoyan.wei@adelaide.edu.au"
-  facebook: deanattali
-  github: daattali
+# facebook: deanattali
+# github: daattali
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -70,7 +70,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-   google-scholar: your google scholar
+#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
